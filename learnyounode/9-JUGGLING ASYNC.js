@@ -1,9 +1,8 @@
-/* jshint esversion:6 */
-var http = require("http");
-var bl = require("bl");
+const http = require("http");
+const bl = require("bl");
 
-var results = [];
-var count = 0;
+let results = [];
+let count = 0;
 
 function tryOutput() {
     if (count === 3) {
@@ -17,7 +16,7 @@ function httpGet(index) {
         response.pipe(bl((err, data) => {
             if (err)
                 return console.log(err);
-            results[index] = data.toString("utf-8");
+            results[index] = data.toString();
             count++;
             tryOutput();
         }));

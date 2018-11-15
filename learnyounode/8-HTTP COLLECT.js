@@ -1,18 +1,17 @@
-/*jshint esversion:6*/
 const http = require("http");
 const BufferList = require("bl");
 
-var url = process.argv[2];
+const url = process.argv[2];
 
 http.get(url, (response) => {
-    if (response.statusCode == 200) {
+    if (response.statusCode === 200) {
         response.pipe(BufferList((err, data) => {
             if (err)
                 console.log(err);
             console.log(data.toString().length);
-            console.log(data.toString("utf-8"));
+            console.log(data.toString());
         }));
-        // var string = "";
+        // let string = "";
         // response
         //     .on("data", (data, err) => {
         //         string += data.toString();

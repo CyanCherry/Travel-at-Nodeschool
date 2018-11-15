@@ -1,5 +1,5 @@
-var fs = require("fs");
-var data;
+const fs = require("fs");
+let data;
 fs.readFile(process.argv[2], "utf-8", function (err, buffer) {
   if (err) throw err;
 

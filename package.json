@@ -1,0 +1,17 @@
+{
+  "name": "nodeschool",
+  "version": "1.0.0",
+  "description": "就是把在NodeSchool的学习成果放在这里吧。",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.dev.tencent.com/CyanCherry/NodeSchool.git"
+  },
+  "author": "Cyan Cherry",
+  "license": "GPLv3",
+  "dependencies": {
+    "bl": "latest"
+  }
+}
