@@ -12,6 +12,7 @@
   "author": "Cyan Cherry",
   "license": "GPLv3",
   "dependencies": {
-    "bl": "latest"
+    "bl": "latest",
+    "through2-map": "^3.0.0"
   }
 }
