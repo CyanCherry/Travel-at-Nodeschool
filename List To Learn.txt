@@ -1,0 +1,23 @@
+NodeSchool (https://nodeschool.io/zh-cn/#workshoppers)
+
+重点学习：
+    javascripting               [COMPLETED]
+    learnyounode                [COMPLETED]
+    git-it                      [COMPLETED]
+    learnyouhtml                [COMPLETED]
+    Scope Chains & Closures     [ERROR]
+    Promise It Won't Hurt
+    JavaScript best practices
+必修内容（非NodeSchool课程）：
+    NPM 使用介绍： http://www.runoob.com/nodejs/nodejs-npm.html
+    Yarn使用介绍：https://juejin.im/entry/57ff58fba22b9d005b225d42
+    React 入门实例教程：http://www.ruanyifeng.com/blog/2015/03/react.html
+    learnyoureact：https://github.com/tako-black/learnyoureact
+    React中文文档：https://doc.react-china.org/
+
+选修内容：（NodeSchools内容)
+    ExpressWorks
+    Async You
+    Count to 6
+    LololoDash
+    
