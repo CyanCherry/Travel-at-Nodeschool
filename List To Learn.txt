@@ -6,7 +6,7 @@ NodeSchool (https://nodeschool.io/zh-cn/#workshoppers)
     git-it                      [COMPLETED]
     learnyouhtml                [COMPLETED]
     Scope Chains & Closures     [ERROR]
-    Promise It Won't Hurt
+    Promise It Won't Hurt       [COMPLETED]
     JavaScript best practices
 必修内容（非NodeSchool课程）：
     NPM 使用介绍： http://www.runoob.com/nodejs/nodejs-npm.html
