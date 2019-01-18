@@ -12,8 +12,15 @@
   "author": "Cyan Cherry",
   "license": "GPLv3",
   "dependencies": {
+    "babel": "^6.23.0",
     "bl": "latest",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-react-views": "^0.11.0",
+    "prop-types": "^15.6.2",
     "q-io": "^1.13.6",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
     "through2-map": "^3.0.0"
   }
 }
