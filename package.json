@@ -13,8 +13,12 @@
   "license": "GPLv3",
   "dependencies": {
     "babel": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^10.0.0",
     "bl": "latest",
     "body-parser": "^1.18.3",
+    "browserify": "^16.2.3",
     "express": "^4.16.4",
     "express-react-views": "^0.11.0",
     "prop-types": "^15.6.2",

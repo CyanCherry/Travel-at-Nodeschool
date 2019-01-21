@@ -1,5 +1,5 @@
 import React from 'react';
-import PropTypes from 'prop-types'
+import PropTypes from 'prop-types';
 
 export default class TodoBox extends React.Component {
     render() {
@@ -28,9 +28,7 @@ class TodoList extends React.Component {
         );
     }
 }
-Todo.propTypes ={
-    title:PropTypes.string.isRequired
-};
+
 class Todo extends React.Component {
     render() {
         return (
@@ -41,6 +39,10 @@ class Todo extends React.Component {
         );
     }
 }
+
+Todo.propTypes = {
+    title: PropTypes.string.isRequired
+};
 
 class TodoForm extends React.Component {
     render() {

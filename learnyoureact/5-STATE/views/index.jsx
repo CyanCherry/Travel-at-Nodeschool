@@ -1,5 +1,5 @@
 import React from 'react';
-import PropTypes from 'prop-types'
+import PropTypes from "prop-types"
 
 export default class TodoBox extends React.Component {
     render() {
@@ -28,29 +28,33 @@ class TodoList extends React.Component {
         );
     }
 }
-Todo.propTypes ={
-    title:PropTypes.string.isRequired
-};
+
 class Todo extends React.Component {
-    handleChange=function () {
-        this.setState(this.state.checked);
+    handleChange(event) {
+        this.setState({checked: event.target.checked});
     };
+
     constructor(props) {
         super(props);
+        this.state = {checked: false};
     }
 
     render() {
         return (
             <tr>
-                <td style={{border: "1px solid black"}}>
+                <td style={{border: "1px solid black;"}}>
                     <input type="checkbox" checked={this.state.checked} onChange={this.handleChange.bind(this)}/>
                 </td>
-                <td style={{border: "1px solid black"}}>{this.props.title}</td>
-                <td style={{border: "1px solid black"}}>{this.props.children}</td>
+                <td style={{border: "1px solid black;"}}>{this.props.title}</td>
+                <td style={{border: "1px solid black;"}}>{this.props.children}</td>
             </tr>
         );
     }
 }
+
+Todo.propTypes = {
+    title: PropTypes.string.isRequired
+};
 
 class TodoForm extends React.Component {
     render() {
