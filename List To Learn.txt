@@ -9,7 +9,7 @@
 * Promise It Won't Hurt     [COMPLETED]
 * [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316)
 * [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html) / [React中文文档](https://doc.react-china.org/)
-* JavaScript best practices
+* JavaScript best practices 
 
 ## 选修内容：
 * ExpressWorks
