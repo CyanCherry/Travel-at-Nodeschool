@@ -3,8 +3,6 @@
 * javascripting             [COMPLETED]
 * learnyounode              [COMPLETED]
 * git-it                    [COMPLETED]
-* [NPM 使用介绍](http://www.runoob.com/nodejs/nodejs-npm.html) / [Yarn使用介绍](https://juejin.im/entry/57ff58fba22b9d005b225d42)
-* Scope Chains & Closures   [ERROR]
 * learnyouhtml              [COMPLETED]
 * Promise It Won't Hurt     [COMPLETED]
 * [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316)
@@ -14,4 +12,9 @@
 ## 选修内容：
 * ExpressWorks
 * Count to 6
-* LololoDash
+* LololoDash        [COMPLETED]
+* https://momentjs.com/
+* http://docs.sequelizejs.com/
+
+## My
+* browserify-adventure

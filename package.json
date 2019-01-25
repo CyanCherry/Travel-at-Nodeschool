@@ -21,6 +21,7 @@
     "browserify": "^16.2.3",
     "express": "^4.16.4",
     "express-react-views": "^0.11.0",
+    "lodash": "^4.17.11",
     "prop-types": "^15.6.2",
     "pug": "^2.0.3",
     "q-io": "^1.13.6",
