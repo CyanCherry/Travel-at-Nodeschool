@@ -1,8 +1,6 @@
 const _ = require("lodash");
 
-const welcome = function (userInfo) {
-    return _.template("Hello <%=name%> (logins: <%=login.length%>)")(userInfo);
-};
+const welcome = (userInfo) => _.template("Hello <%=name%> (logins: <%=login.length%>)")(userInfo);
 
 module.exports = welcome;
 

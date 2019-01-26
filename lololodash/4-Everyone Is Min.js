@@ -1,6 +1,6 @@
 const _ = require("lodash");
 
-function divide(cities) {
+divide = (cities) => {
     let groups = {
         hot: [],
         warm: []
@@ -8,12 +8,11 @@ function divide(cities) {
     _.forEach(cities, (temperature, cityName) => {
         if (_.every(temperature, item => item > 19))
             groups.hot.push(cityName);
-        else if (_.some(temperature, item => item >= 19))
+        else if (_.some(temperature, item => item > 19))
             groups.warm.push(cityName);
     });
     return groups;
-}
-
+};
 
 module.exports = divide;
 

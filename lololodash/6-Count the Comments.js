@@ -1,15 +1,12 @@
 const _ = require("lodash");
 
-function grouping(comments) {
-    return _.chain(comments)
+grouping = (comments) =>
+    _.chain(comments)
         .groupBy("username")
-        .map((comments, username) => {
-            return {username: username, comment_count: _.size(comments)}
-        })
+        .map((comments, username) => ({username: username, comment_count: _.size(comments)}))
         .sortBy("comment_count")
         .reverse()
         .value();
-}
 
 module.exports = grouping;
 

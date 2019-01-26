@@ -1,19 +1,19 @@
 const _ = require("lodash");
 
-function reduce(orders) {
-    return _.chain(orders)
-        .groupBy("article")
-        .map((groupedOrders, article) => {
-            return {
-                article: parseInt(article), total_orders: _.reduce(groupedOrders, (container, order) => {
-                    return container + order.quantity;
-                }, 0)
-            }
+reduce = (orders) => _.chain(orders)
+    .groupBy("article")
+    .map((groupedOrders, article) => ({
+            article:
+                parseInt(article),
+            total_orders:
+                _.reduce(groupedOrders,
+                    (container, order) => container + order.quantity,
+                    0)
         })
-        .sortBy("total_orders")
-        .reverse()
-        .value();
-}
+    )
+    .sortBy("total_orders")
+    .reverse()
+    .value();
 
 module.exports = reduce;
 

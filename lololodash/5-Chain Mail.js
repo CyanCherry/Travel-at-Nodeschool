@@ -1,13 +1,10 @@
 const _ = require("lodash");
 
-function chain(words) {
-    return _.chain(words)
-        .map((word) => {
-            return (word + "chained").toUpperCase();
-        })
+chain = (words) =>
+    _.chain(words)
+        .map((word) => (word + "chained").toUpperCase())
         .sort()
         .value();
-}
 
 module.exports = chain;
 

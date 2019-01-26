@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="581308b9-c3b4-4af5-8fc2-ada76789aeda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/expressworks/5-STYLISH CSS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expressworks/6-PARAM PAM PAM.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expressworks/7-WHAT'S IN QUERY.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expressworks/8-JSON ME.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/count-to-6/1-HELLO ES6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/count-to-6/2-TEMPLATE STRINGS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/count-to-6/3-ARROW FUNCTIONS, Part 1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lololodash/1-Getting Started.js" beforeDir="false" afterPath="$PROJECT_DIR$/lololodash/1-Getting Started.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lololodash/2-Sort Me.js" beforeDir="false" afterPath="$PROJECT_DIR$/lololodash/2-Sort Me.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lololodash/3-In Every Case.js" beforeDir="false" afterPath="$PROJECT_DIR$/lololodash/3-In Every Case.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lololodash/4-Everyone Is Min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lololodash/4-Everyone Is Min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lololodash/5-Chain Mail.js" beforeDir="false" afterPath="$PROJECT_DIR$/lololodash/5-Chain Mail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lololodash/6-Count the Comments.js" beforeDir="false" afterPath="$PROJECT_DIR$/lololodash/6-Count the Comments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lololodash/7-Give Me an Overview.js" beforeDir="false" afterPath="$PROJECT_DIR$/lololodash/7-Give Me an Overview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lololodash/8-Analyze.js" beforeDir="false" afterPath="$PROJECT_DIR$/lololodash/8-Analyze.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lololodash/9-Start templating.js" beforeDir="false" afterPath="$PROJECT_DIR$/lololodash/9-Start templating.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,15 +28,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/expressworks/8-JSON ME.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-              <folding>
-                <marker date="1548410375071" expanded="true" signature="313:590" ph="..." />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/count-to-6/3-ARROW FUNCTIONS, Part 1.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -52,9 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/learnyouhtml/11-STYLES AND SCRIPTS.html" />
-        <option value="$PROJECT_DIR$/scope-chains-closures/1-Scopes.js" />
-        <option value="$PROJECT_DIR$/promise-it-wont-hurt/1-Warm up.js" />
         <option value="$PROJECT_DIR$/promise-it-wont-hurt/2- Fulfill a promise.js" />
         <option value="$PROJECT_DIR$/promise-it-wont-hurt/3- Reject a promise.js" />
         <option value="$PROJECT_DIR$/promise-it-wont-hurt/4- To reject or not to reject.js" />
@@ -89,27 +85,29 @@
         <option value="$PROJECT_DIR$/expressworks/2-STATIC.js" />
         <option value="$PROJECT_DIR$/expressworks/4-GOOD OLD FORM.js" />
         <option value="$PROJECT_DIR$/expressworks/3-PUG.js" />
-        <option value="$PROJECT_DIR$/lololodash/2-Sort Me.js" />
-        <option value="$PROJECT_DIR$/lololodash/4-Everyone Is Min.js" />
-        <option value="$PROJECT_DIR$/lololodash/5-Chain Mail.js" />
-        <option value="$PROJECT_DIR$/lololodash/3-In Every Case.js" />
-        <option value="$PROJECT_DIR$/lololodash/6-Count the Comments.js" />
-        <option value="$PROJECT_DIR$/lololodash/7-Give Me an Overview.js" />
-        <option value="$PROJECT_DIR$/lololodash/1-Getting Started.js" />
-        <option value="$PROJECT_DIR$/lololodash/8-Analyze.js" />
-        <option value="$PROJECT_DIR$/lololodash/9-Start templating.js" />
         <option value="$PROJECT_DIR$/List To Learn.txt" />
         <option value="$PROJECT_DIR$/expressworks/5-STYLISH CSS.js" />
         <option value="$PROJECT_DIR$/expressworks/6-PARAM PAM PAM.js" />
         <option value="$PROJECT_DIR$/expressworks/7-WHAT'S IN QUERY.js" />
         <option value="$PROJECT_DIR$/expressworks/8-JSON ME.js" />
+        <option value="$PROJECT_DIR$/count-to-6/1-HELLO ES6.js" />
+        <option value="$PROJECT_DIR$/count-to-6/2-TEMPLATE STRINGS.js" />
+        <option value="$PROJECT_DIR$/count-to-6/3-ARROW FUNCTIONS, Part 1.js" />
+        <option value="$PROJECT_DIR$/lololodash/1-Getting Started.js" />
+        <option value="$PROJECT_DIR$/lololodash/2-Sort Me.js" />
+        <option value="$PROJECT_DIR$/lololodash/3-In Every Case.js" />
+        <option value="$PROJECT_DIR$/lololodash/4-Everyone Is Min.js" />
+        <option value="$PROJECT_DIR$/lololodash/5-Chain Mail.js" />
+        <option value="$PROJECT_DIR$/lololodash/6-Count the Comments.js" />
+        <option value="$PROJECT_DIR$/lololodash/7-Give Me an Overview.js" />
+        <option value="$PROJECT_DIR$/lololodash/8-Analyze.js" />
+        <option value="$PROJECT_DIR$/lololodash/9-Start templating.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1043" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="890" />
+    <option name="width" value="1038" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -120,6 +118,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,13 +129,17 @@
             <path>
               <item name="NodeSchool" type="b2602c69:ProjectViewProjectNode" />
               <item name="NodeSchool" type="462c0819:PsiDirectoryNode" />
-              <item name="expressworks" type="462c0819:PsiDirectoryNode" />
+              <item name="count-to-6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NodeSchool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NodeSchool" type="462c0819:PsiDirectoryNode" />
+              <item name="lololodash" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -144,7 +147,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548410527035" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548514721395" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.14.1" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../新建文件夹/P2M training exam" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -178,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.5-STYLISH CSS.js">
+  <component name="RunManager" selected="Node.js.7-Give Me an Overview.js">
     <configuration name="12-HTTP UPPERCASERER.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/learnyounode/12-HTTP UPPERCASERER.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -202,10 +205,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.7-Give Me an Overview.js" />
         <item itemvalue="Node.js.5-STYLISH CSS.js" />
         <item itemvalue="Node.js.9-Start templating.js" />
         <item itemvalue="Node.js.8-Analyze.js" />
-        <item itemvalue="Node.js.7-Give Me an Overview.js" />
         <item itemvalue="Node.js.6-Count the Comments.js" />
       </list>
     </recent_temporary>
@@ -255,7 +258,9 @@
       <workItem from="1548216269211" duration="164000" />
       <workItem from="1548300442468" duration="177000" />
       <workItem from="1548301229495" duration="14353000" />
-      <workItem from="1548385382193" duration="16727000" />
+      <workItem from="1548385382193" duration="16935000" />
+      <workItem from="1548506921442" duration="629000" />
+      <workItem from="1548510451737" duration="4398000" />
     </task>
     <task id="LOCAL-00001" summary="终于刷完learnyounode了">
       <created>1542857366176</created>
@@ -348,11 +353,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548401075111</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="expressworks finished">
+      <created>1548410564360</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1548410564361</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149828000" />
+    <option name="totallyTimeSpent" value="155063000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -364,7 +376,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="709" y="0" width="834" height="830" extended-state="0" />
+    <frame x="712" y="0" width="830" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.24896266" />
@@ -373,7 +385,7 @@
       <window_info id="Favorites" order="3" side_tool="true" weight="0.32901555" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" weight="0.53350514" />
+      <window_info content_ui="combo" id="Project" order="6" weight="0.41321245" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49875" weight="0.29083094" />
@@ -428,32 +440,10 @@
     <MESSAGE value="开始expressworks的新坑" />
     <MESSAGE value="结束expressworks的新坑" />
     <MESSAGE value="lodash真好用" />
-    <option name="LAST_COMMIT_MESSAGE" value="lodash真好用" />
+    <MESSAGE value="expressworks finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="expressworks finished" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/learnyounode/7-HTTP CLIENT.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnyounode/8-HTTP COLLECT.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/promise-it-wont-hurt/1-Warm up.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/promise-it-wont-hurt/13-Do some work.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -495,13 +485,6 @@
     <entry file="file://$PROJECT_DIR$/learnyoureact/6-CSS/views/index.jsx" />
     <entry file="file://$PROJECT_DIR$/learnyoureact/7-PROPS_FROM_SERVER/program.js" />
     <entry file="file://$PROJECT_DIR$/learnyoureact/7-PROPS_FROM_SERVER/views/index.jsx" />
-    <entry file="file://$PROJECT_DIR$/expressworks/1-HELLO WORLD!.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/express/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -543,66 +526,10 @@
         <state relative-caret-position="-153" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lololodash/4-Everyone Is Min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" lean-forward="true" selection-end-line="25" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lololodash/5-Chain Mail.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="15" selection-end-line="13" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lololodash/2-Sort Me.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lololodash/3-In Every Case.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lololodash/6-Count the Comments.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lololodash/7-Give Me an Overview.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lololodash/1-Getting Started.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/lodash/lodash.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1530" column="4" selection-start-line="1530" selection-start-column="4" selection-end-line="1530" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lololodash/8-Analyze.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="2" lean-forward="true" selection-end-line="30" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -613,17 +540,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lololodash/9-Start templating.js">
+    <entry file="file://$PROJECT_DIR$/learnyounode/3-MY FIRST IO.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count-to-6/1-HELLO ES6.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/expressworks/4-GOOD OLD FORM.js">
+    <entry file="file://$PROJECT_DIR$/count-to-6/2-TEMPLATE STRINGS.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="50" />
+        <state relative-caret-position="42">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expressworks/1-HELLO WORLD!.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expressworks/2-STATIC.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -634,10 +578,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/expressworks/2-STATIC.js">
+    <entry file="file://$PROJECT_DIR$/expressworks/4-GOOD OLD FORM.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="41" />
+        <state relative-caret-position="84">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -662,18 +606,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learnyounode/3-MY FIRST IO.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/expressworks/8-JSON ME.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding>
-            <marker date="1548410375071" expanded="true" signature="313:590" ph="..." />
-          </folding>
+        <state relative-caret-position="126">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lololodash/1-Getting Started.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lololodash/2-Sort Me.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lololodash/3-In Every Case.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lololodash/8-Analyze.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lololodash/9-Start templating.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lololodash/4-Everyone Is Min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lololodash/5-Chain Mail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lololodash/6-Count the Comments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lololodash/7-Give Me an Overview.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count-to-6/3-ARROW FUNCTIONS, Part 1.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

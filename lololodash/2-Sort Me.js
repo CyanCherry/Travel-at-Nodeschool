@@ -1,9 +1,5 @@
 const _ = require("lodash");
 
-const sorter = (Objects) => {
-    return _.sortBy(Objects, item => {
-        return -item.quantity
-    });
-};
+const sorter = (Objects) => _.sortBy(Objects, item => -item.quantity);
 
 module.exports = sorter;

@@ -1,6 +1,6 @@
 const _ = require("lodash");
 
-const classDivision = function (incomes) {
+const classDivision = (incomes) => {
     let average = _.reduce(incomes, (container, income) => {
         return container + income.income
     }, 0) / _.size(incomes);
@@ -15,7 +15,6 @@ const classDivision = function (incomes) {
         })
     }
 };
-
 
 module.exports = classDivision;
 
