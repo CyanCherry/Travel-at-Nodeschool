@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="581308b9-c3b4-4af5-8fc2-ada76789aeda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js-best-practices/SOLID.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List To Learn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List To Learn.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,20 +19,8 @@
         <entry file="file://$PROJECT_DIR$/js-best-practices/SOLID.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="440">
-                <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/List To Learn.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="40">
-                <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+              <first_editor relative-caret-position="465">
+                <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
               </first_editor>
               <second_editor />
             </state>
@@ -65,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/React/src/index.css" />
         <option value="$PROJECT_DIR$/React/src/index.js" />
         <option value="$PROJECT_DIR$/learnyoureact/program.js" />
         <option value="$PROJECT_DIR$/learnyoureact/1-HELLO_REACT.js" />
@@ -113,16 +98,16 @@
         <option value="$PROJECT_DIR$/js-best-practices/productInventory.js" />
         <option value="$PROJECT_DIR$/js-best-practices/changeHandler.js" />
         <option value="$PROJECT_DIR$/js-best-practices/balanceManager.js" />
-        <option value="$PROJECT_DIR$/js-best-practices/vendingMachine.js" />
         <option value="$PROJECT_DIR$/List To Learn.txt" />
+        <option value="$PROJECT_DIR$/List To Learn.md" />
         <option value="$PROJECT_DIR$/js-best-practices/SOLID.md" />
+        <option value="$PROJECT_DIR$/js-best-practices/vendingMachine.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="820" />
-    <option name="width" value="1105" />
-    <option name="height" value="1040" />
+    <option name="width" value="960" />
+    <option name="height" value="1037" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -148,8 +133,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -278,6 +263,8 @@
       <workItem from="1548822779265" duration="6277000" />
       <workItem from="1548846046205" duration="42000" />
       <workItem from="1548846176419" duration="3234000" />
+      <workItem from="1548916654710" duration="727000" />
+      <workItem from="1548917418091" duration="1884000" />
     </task>
     <task id="LOCAL-00001" summary="终于刷完learnyounode了">
       <created>1542857366176</created>
@@ -412,11 +399,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548768229268</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="删除了多余的字符">
+      <created>1548916933453</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1548916933455</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195085000" />
+    <option name="totallyTimeSpent" value="197696000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -428,7 +422,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1037" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.24896266" />
@@ -437,7 +431,7 @@
       <window_info id="Favorites" order="3" side_tool="true" weight="0.32901555" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.23190348" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.15015975" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49875" weight="0.508596" />
@@ -497,10 +491,10 @@
     <MESSAGE value="=&gt;" />
     <MESSAGE value="have counted to 6" />
     <MESSAGE value="js-best-practices finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="js-best-practices finished" />
+    <MESSAGE value="删除了多余的字符" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除了多余的字符" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/learnyoureact/5-STATE/views/index.jsx" />
     <entry file="file://$PROJECT_DIR$/learnyoureact/5-STATE/program.js" />
     <entry file="file://$PROJECT_DIR$/learnyoureact/4-PROPTYPES/program.js" />
     <entry file="file://$PROJECT_DIR$/learnyoureact/1-HELLO_REACT/views/index.jsx" />
@@ -539,13 +533,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.14.1/core-modules/vm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.14.1/core-modules/vm.js" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-153" />
@@ -747,13 +735,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js-best-practices/vendingMachine.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js-best-practices/balanceManager.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -782,26 +763,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/List To Learn.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="40">
-            <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/js-best-practices/vendingMachine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="54" lean-forward="true" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js-best-practices/.SOLID.md.swp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/List To Learn.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="18" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js-best-practices/SOLID.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="440">
-            <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <first_editor relative-caret-position="465">
+            <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
           </first_editor>
           <second_editor />
         </state>
