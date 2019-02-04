@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="581308b9-c3b4-4af5-8fc2-ada76789aeda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,20 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+            <state relative-caret-position="40">
+              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -146,7 +135,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549263148027" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549263486773" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.14.1" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../新建文件夹/P2M training exam" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -270,7 +259,7 @@
       <workItem from="1548846176419" duration="3234000" />
       <workItem from="1548916654710" duration="727000" />
       <workItem from="1548917418091" duration="1884000" />
-      <workItem from="1549255667191" duration="3103000" />
+      <workItem from="1549255667191" duration="3482000" />
     </task>
     <task id="LOCAL-00001" summary="终于刷完learnyounode了">
       <created>1542857366176</created>
@@ -412,11 +401,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548916933455</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="ignore无关的文件">
+      <created>1549263204823</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1549263204823</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202489000" />
+    <option name="totallyTimeSpent" value="202868000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -447,7 +443,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32378224" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.76628894" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3753541" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.04249292" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50125" side_tool="true" weight="0.5472779" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32808024" />
@@ -498,12 +494,10 @@
     <MESSAGE value="have counted to 6" />
     <MESSAGE value="js-best-practices finished" />
     <MESSAGE value="删除了多余的字符" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除了多余的字符" />
+    <MESSAGE value="ignore无关的文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="ignore无关的文件" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/learnyoureact/2-COMPONENTS/views/index.jsx" />
-    <entry file="file://$PROJECT_DIR$/learnyoureact/3-PROPS/views/index.jsx" />
-    <entry file="file://$PROJECT_DIR$/learnyoureact/4-PROPTYPES/views/index.jsx" />
     <entry file="file://$PROJECT_DIR$/learnyoureact/6-CSS/views/index.jsx" />
     <entry file="file://$PROJECT_DIR$/learnyoureact/7-PROPS_FROM_SERVER/program.js" />
     <entry file="file://$PROJECT_DIR$/learnyoureact/7-PROPS_FROM_SERVER/views/index.jsx" />
@@ -804,17 +798,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/NodeSchool.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        <state relative-caret-position="253">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/86115.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/cyan_cherry.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="40">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
