@@ -1,11 +1,5 @@
 const Sequelize = require('sequelize');
-const sequelize = new Sequelize('sequelize', 'root', 'password', {
-    host: 'localhost',
-    dialect: 'mysql',
-    port: 3306,
-    pool: {max: 5, min: 0, idle: 10000},
-    operatorsAliases: false
-});
+const sequelize = require('./1-Setting up & test a connection');
 
 const User = sequelize.define('user', {
     firstName: {
@@ -20,8 +14,14 @@ const User = sequelize.define('user', {
 // User.sync({force: true})
 User.sync({force: false})
     .then(() => {
-        return User.create({
-            firstName: 'John',
-            lastName: 'Hancock'
-        });
+        console.log('Model has been synced successfully.');
+        // return User.create({
+        //     firstName: 'John',
+        //     lastName: 'Hancock'
+        // });
+    })
+    .catch(err => {
+        console.error('Failed to create the model:', err);
     });
+
+module.exports = User;
