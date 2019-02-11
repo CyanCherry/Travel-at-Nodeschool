@@ -17,10 +17,8 @@ reduce = (orders) => _.chain(orders)
 
 module.exports = reduce;
 
-console.log(reduce(
-    [
-        {article: 1, quantity: 4},
-        {article: 2, quantity: 2},
-        {article: 1, quantity: 5}
-    ]
-));
+console.log(reduce([
+    {article: 1, quantity: 4},
+    {article: 2, quantity: 2},
+    {article: 1, quantity: 5}
+]));

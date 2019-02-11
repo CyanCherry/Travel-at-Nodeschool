@@ -1,4 +1,5 @@
-//用{}可以声明一个包含了多个属性的自定义对象
+// 用{}可以声明一个对象
+// 对象的属性和方法可以自由定义
 let pizza = {
     toppings: ['cheese', 'sauce', 'pepperoni'],
     crust: 'deep dish',

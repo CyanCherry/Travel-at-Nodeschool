@@ -1,3 +1,4 @@
 let number = 128;
-//与Java类似，number的toString方法可以把number转化为String
+
+// number的toString方法可以把number转化为表义相同的String对象
 console.log(number.toString());
