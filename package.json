@@ -1,5 +1,5 @@
 {
-  "name": "nodeschool",
+  "name": "travel-at-nodeschool",
   "version": "1.0.0",
   "description": "就是把在NodeSchool的学习成果放在这里吧。",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/CyanCherry/travel-at-nodeschool.git"
+    "url": "https://github.com/CyanCherry/Travel-at-Nodeschool.git"
   },
   "author": "Cyan Cherry",
   "license": "GPLv3",
