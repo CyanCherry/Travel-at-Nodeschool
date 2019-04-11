@@ -1,10 +1,13 @@
-const fs = require('fs');
+const fs = require("fs");
+let data;
+fs.readFile(process.argv[2], "utf-8", function (err, buffer) {
+  if (err) throw err;
 
-// 异步读取文件
-fs.readFile(process.argv[2], 'utf-8', function (err, buffer) {
-    // 处理异常情况
-    if (err)
-        throw err;
-
-    console.log(buffer.split("\n").length - 1);
+  function getData() {
+    return buffer;
+  }
+  data = getData;
+  console.log(buffer.split("\n").length - 1);
 });
+//console.log(data.split("\n").length - 1);
+//data is undefined
