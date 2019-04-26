@@ -10,7 +10,7 @@
     "url": "https://github.com/CyanCherry/Travel-at-Nodeschool.git"
   },
   "author": "Cyan Cherry",
-  "license": "GPLv3",
+  "license": "MIT",
   "dependencies": {
     "babel": "^6.23.0",
     "babel-preset-es2015": "^6.24.1",
