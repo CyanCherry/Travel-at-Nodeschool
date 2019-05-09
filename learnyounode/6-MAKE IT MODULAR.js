@@ -1,4 +1,5 @@
 const module = require('./6-filtedLs');
+
 const folderPath = process.argv[2];
 const extName = process.argv[3];
 const callback = function (err, fileList) {
