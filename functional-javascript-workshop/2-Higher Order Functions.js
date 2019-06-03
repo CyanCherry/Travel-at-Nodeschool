@@ -1,5 +1,6 @@
-function repeat(operation, num) {
-
-}
+repeat = (operation, num) => {
+    while (--num)
+        operation();
+};
 
 module.exports = repeat;
