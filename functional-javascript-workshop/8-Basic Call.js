@@ -15,6 +15,6 @@ function duckCount() {
 //         0
 //     )
 // }
-// don't make sense, because arrow function without its own bindings to the this, arguments, super, or new.target keywords.
+// don't make sense, because each arrow function without its own bindings to the this, arguments, super, or new.target keywords.
 
 module.exports = duckCount;
