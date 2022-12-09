@@ -19,7 +19,7 @@
     "bl": "latest",
     "body-parser": "^1.18.3",
     "browserify": "^16.2.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-react-views": "^0.11.0",
     "lodash": "^4.17.13",
     "mysql2": "^1.6.4",
